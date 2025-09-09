@@ -8,16 +8,16 @@ Certified **JLPT N3** Japanese learner 🗾, lifelong fan of puzzles, and always
   
 ## Work Experience
 -1. Data Science Analyst | NYU Langone Health
---•	Built and deployed supervised and unsupervised ML models using Random Forest, classification trees, and time-series forecasting in Python on sensor data, increasing predictive accuracy to 88–90% to make data ---driven insights from large time series datasets.
---•	Trained CNNs in PyTorch on imaging data, implementing end-to-end preprocessing and feature engineering pipelines to achieve 80–85% classification accuracy and enable model deployment.
---•	Improved classification by engineering 70+ time and frequency-domain features from sensor data using Python & MATLAB (signal processing techniques), enhancing classification performance.
---•	Designed automated ETL pipelines with Python, SQL, and Fitbit API to integrate 1M+ multimodal records, creating scalable, analysis-ready datasets for ML workflows.
---•	Assisted in deployment of ML models into production-like environments on Azure and AWS, collaborating with engineers to ensure scalability and data access.
+-•	Built and deployed supervised and unsupervised ML models using Random Forest, classification trees, and time-series forecasting in Python on sensor data, increasing predictive accuracy to 88–90% to make data -driven insights from large time series datasets.
+-•	Trained CNNs in PyTorch on imaging data, implementing end-to-end preprocessing and feature engineering pipelines to achieve 80–85% classification accuracy and enable model deployment.
+-•	Improved classification by engineering 70+ time and frequency-domain features from sensor data using Python & MATLAB (signal processing techniques), enhancing classification performance.
+-•	Designed automated ETL pipelines with Python, SQL, and Fitbit API to integrate 1M+ multimodal records, creating scalable, analysis-ready datasets for ML workflows.
+-•	Assisted in deployment of ML models into production-like environments on Azure and AWS, collaborating with engineers to ensure scalability and data access.
 
 -2. Bilingual ETL Developer | Fujitsu Global                      
---•	Upgraded 20+ cross-platform apps with using Python and C++, improving system reliability, and reducing processing delays.
---•	Streamlined batch and streaming R&D pipelines, enabling faster access to telecom performance metrics.
---•	Built analytics tools and ETL workflows using Python, VBA, Informatica PowerCentre, cutting reporting turnaround by 30%.
+-•	Upgraded 20+ cross-platform apps with using Python and C++, improving system reliability, and reducing processing delays.
+-•	Streamlined batch and streaming R&D pipelines, enabling faster access to telecom performance metrics.
+-•	Built analytics tools and ETL workflows using Python, VBA, Informatica PowerCentre, cutting reporting turnaround by 30%.
 
 ## Projects
 
