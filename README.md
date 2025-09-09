@@ -4,9 +4,8 @@ Fluent in Python, curious about user behavior, and occasionally overanalyzes cof
 Certified **JLPT N3** Japanese learner 🗾, lifelong fan of puzzles, and always hunting for the next problem to solve… just not my life issues.
 ## Education
 - MS, Analytics                        | 2027
-- 
 - MS, Biomedical Engineering           | 2022
-- 
+  
 ## Work Experience
 -1. Data Science Analyst | NYU Langone Health
 --•	Built and deployed supervised and unsupervised ML models using Random Forest, classification trees, and time-series forecasting in Python on sensor data, increasing predictive accuracy to 88–90% to make data ---driven insights from large time series datasets.
